@@ -1,3 +1,5 @@
+[![Discord Presence](https://lanyard.cnrad.dev/api/1387386507853172746)](https://discord.com/users/1387386507853172746)
+
 ## yo waddup
 
 Beginner coder, programmer, and whatever else applies to me and what all that I do, which is what ever interests me lol.
