@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/1387386507853172746?idleMessage=Who%20knows%20what%20the%20hell%20I%20could%20be%20up%20&showDisplayName=true)](https://discord.com/users/1387386507853172746)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1387386507853172746?idleMessage=Who%20knows%20what%20the%20hell%20I%20could%20be%20up%20to%20lol&showDisplayName=true)](https://discord.com/users/1387386507853172746)
 
 ## yo waddup
 
@@ -17,7 +17,7 @@ I work with Union-Crax as part of their team, [visit the site](https://union-cra
 
 - 🤔 I’m looking for help with...
   - That PS2 port of HL: OpFor. Haven't had much time to do it but now I'm looking to get back into it, I need help with decompiling / or just modifying whatever contains the dll for HL and replace it with OpFor's, editing textures / pictures, correctly converting models and sprites, basically the whole thing. ([I've gotten somewhat far in the past this year, though with endless issues and mistakes and softlocks that would be found on PC too if loaded incorrectly.](https://www.reddit.com/r/HalfLife/comments/1i0u21d/welp_it_went_from_bad_to_worse_opfor_ps2_port/))
-  - Another Half-Life project: Implementing Xperia Play touchpad support in the Android port of Xash3D FWGS [Old Engine] and fix the keypad inputs to properly read the Play's gamepad inputs and get the touchpad working for better experiences overall. (Touchpad uses C & Java code to work, I have absolutely no idea how to make that work and Sony Ericcson's documentation on it is abysmal from what I was able to make sense of. I just need to have it explained better so I can actually understand and figure out how exactly to do it. NOT looking for others to do it for me, I asked for help one time in a server that had channels for support with stuff like coding, hardware, general tech support, and was practically chastised for it even though I stated I was doing the work myself and only needed help UNDERSTANDING the C & Java code, especially for Android 2.3! Rant over, just still infuriated over that.)
+  - Another Half-Life project: Implementing Xperia Play touchpad support in the Android port of Xash3D FWGS [Old Engine] and fix the keypad inputs to properly read the Play's gamepad inputs and get the touchpad working for better experiences overall. (Touchpad uses C & Java code to work, I have absolutely no idea how to make that work and Sony Ericcson's documentation on it is abysmal from what I was able to make sense of.) 
 
 - 📫 How to reach me:
   - Discord (@vee.anti)
