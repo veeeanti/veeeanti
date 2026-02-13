@@ -8,8 +8,8 @@ I work with Union-Crax as part of their team, [visit the site](https://union-cra
 
 
 - 🔭 I’m currently working on...
-  - UC custom steam emulator (one day...)
-  - Half-Life: Opposing Force PS2 Port
+  - uc-online + linux / proton compatibility 
+  - Learning to reverse engineer certain games to crack
   - My [website & its features](https://vee-anti.xyz/)
 
 - 💬 Ask me about...
@@ -24,7 +24,6 @@ I work with Union-Crax as part of their team, [visit the site](https://union-cra
   - Reddit (u/projectmajora)
   - Bluesky (@vee-anti.xyz)
   - cs.rin.ru PMs ([my profile on there](https://cs.rin.ru/forum/memberlist.php?mode=viewprofile&u=2725712))
-  - Just message me on here, or whatever the equivalent to that is for this, lol.
 
 - 😄 Pronouns:
   - She / they.
