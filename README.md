@@ -1,9 +1,12 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/1387386507853172746?idleMessage=Who%20knows%20what%20the%20hell%20I%20could%20be%20up%20to%20lol&showDisplayName=true)](https://discord.com/users/1387386507853172746)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1387386507853172746?idleMessage=Who%20knows%20what%20the%20hell%20I%20could%20be%20up%20to%20lol&showDisplayName=true)](https://discord.com/users/1387386507853172746)~
+
+~ Rest well, dad... (Feb. 6, 2026) ~
+
 
 ## yo waddup
 
-Beginner coder, programmer, and whatever else applies to me and what all that I do, which is what ever interests me lol.
-Android stuff, Windows stuff, game related things, reverse engineering / cracking (not that good enough yet really).
+Somewhat of a coder, programmer, and whatever else applies to me and what all that I do, which is what ever interests me lol.
+Android stuff, Windows stuff, game related things, reverse engineering / cracking (not that good enough yet really, may be giving up on that soon anyways).
 I work with Union-Crax as part of their team, [visit the site](https://union-crax.xyz/) and join our Discord server too! Everyone is welcome, and also to make requests for games to be listed too.
 
 
