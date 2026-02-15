@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/1387386507853172746?idleMessage=Who%20knows%20what%20the%20hell%20I%20could%20be%20up%20to%20lol&showDisplayName=true)](https://discord.com/users/1387386507853172746)~
+[![Discord Presence](https://lanyard.cnrad.dev/api/1387386507853172746?idleMessage=Who%20knows%20what%20the%20hell%20I%20could%20be%20up%20to%20lol&showDisplayName=true)](https://discord.com/users/1387386507853172746)
 
 ~ Rest well, dad... (Feb. 6, 2026) ~
 
