@@ -1,5 +1,4 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1387386507853172746?idleMessage=Who%20knows%20what%20the%20hell%20I%20could%20be%20up%20to%20lol&showDisplayName=true)](https://discord.com/users/1387386507853172746)
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314saua3rlrulnzdhodgborfbzvi&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=314saua3rlrulnzdhodgborfbzvi&redirect=true)
 
 ~ Rest well, dad... (Feb. 6, 2026) ~
 
