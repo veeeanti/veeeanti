@@ -2,7 +2,7 @@
 
 ~ Rest well, dad... (Feb. 6, 2026) ~
 
-[The Funky](https://union-crax.xyz/api/images/https%3A%2F%2Fcdn.discordapp.com%2Favatars%2F1387386507853172746%2Fa_3493e641872ccf10092f11183d8396ba.gif)
+[![The Funky](https://union-crax.xyz/api/images/https%3A%2F%2Fcdn.discordapp.com%2Favatars%2F1387386507853172746%2Fa_3493e641872ccf10092f11183d8396ba.gif)]
 
 ## yo waddup
 
