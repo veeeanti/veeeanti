@@ -13,6 +13,7 @@ I work with Union-Crax as part of their team, [visit the site](https://union-cra
 
 - 🔭 I’m currently working on...
   - uc-online + linux / proton compatibility 
+    - uc-online 2
   - Learning to reverse engineer certain games to crack
   - My [website & its features](https://vee-anti.xyz/)
 
