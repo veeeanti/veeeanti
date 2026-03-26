@@ -43,4 +43,4 @@ I work with Union-Crax as part of their team, [visit the site](https://union-cra
 
 Have a nice day / night / time! Thank you for reading this wall of nonsense if you actually read through all of it, I apologize for any brain cell loss it may have caused you in advance lmao. ^^
 
-[![Anurag's GitHub stats]([https://github-readme-stats-taupe-two-74.vercel.app/](https://github-readme-stats-taupe-two-74.vercel.app/api?username=veeeanti)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-taupe-two-74.vercel.app/api?username=veeeanti)](https://github.com/anuraghazra/github-readme-stats)
