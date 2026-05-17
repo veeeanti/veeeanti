@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/975505619937263636?idleMessage=Who%20knows%20what%20the%20hell%20I%20could%20be%20up%20to%20lol&showDisplayName=true)](https://discord.com/users/975505619937263636)
+[I'm done with discord. I've moved over to fluxer now.] 
 
 ~ Rest well, dad... (Feb. 6, 2026) ~
 
@@ -25,7 +25,7 @@ I work with Union-Crax as part of their team, [visit the site](https://union-cra
   - Another Half-Life project: Implementing Xperia Play touchpad support in the Android port of Xash3D FWGS [Old Engine] and fix the keypad inputs to properly read the Play's gamepad inputs and get the touchpad working for better experiences overall. (Touchpad uses C & Java code to work, I have absolutely no idea how to make that work and Sony Ericcson's documentation on it is abysmal from what I was able to make sense of.) 
 
 - 📫 How to reach me:
-  - Discord (@jordansbucket5373) (I promise this is me.)
+  - Fluxer (@veeanti#4047)
   - Reddit (u/projectmajora)
   - Bluesky (@vee-anti.xyz)
   - cs.rin.ru PMs ([my profile on there](https://cs.rin.ru/forum/memberlist.php?mode=viewprofile&u=2725712))
@@ -44,6 +44,6 @@ I work with Union-Crax as part of their team, [visit the site](https://union-cra
 
 Have a nice day / night / time! Thank you for reading this wall of nonsense if you actually read through all of it, I apologize for any brain cell loss it may have caused you in advance lmao. ^^
 
-* Discord is waging a war on me by having their AI or whatever it is falsely banning me and then not even letting me get it reviewed and instead slapping me with 3 extra violations in return for trying to get someone to look at my case. I am now getting ban evasion suspensions but they seem to not realize I am just that petty and unemployed to make countless accounts to waste their time.
+* Fuck you, trace.rip, or whatever you fuckass low-lives go by now. And everyone associated with those kids. We did nothing to you and yet you keep doing shit to us. 
 
 [![Anurag's GitHub stats](https://github-readme-stats-taupe-two-74.vercel.app/api/top-langs/?username=veeeanti)](https://github.com/anuraghazra/github-readme-stats)
