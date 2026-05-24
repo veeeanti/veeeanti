@@ -47,3 +47,6 @@ Have a nice day / night / time! Thank you for reading this wall of nonsense if y
 * Fuck you, trace.rip, or whatever you fuckass low-lives go by now. And everyone associated with those kids. We did nothing to you and yet you keep doing shit to us. 
 
 [![Anurag's GitHub stats](https://github-readme-stats-taupe-two-74.vercel.app/api/top-langs/?username=veeeanti)](https://github.com/anuraghazra/github-readme-stats)
+
+(yes I stole this from you, Ace! _SL/S, lmao)
+![](https://count.getloli.com/@veeeanti?name=veeeanti&theme=original-old&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto "Moe Counter")
