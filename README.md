@@ -1,4 +1,4 @@
-[I'm done with discord. I've moved over to fluxer now.] 
+[I've come crawling right the fuck back to discord smh.] 
 
 ~ Rest well, dad... (Feb. 6, 2026) ~
 
@@ -25,6 +25,7 @@ I work with Union-Crax as part of their team, [visit the site](https://union-cra
   - Another Half-Life project: Implementing Xperia Play touchpad support in the Android port of Xash3D FWGS [Old Engine] and fix the keypad inputs to properly read the Play's gamepad inputs and get the touchpad working for better experiences overall. (Touchpad uses C & Java code to work, I have absolutely no idea how to make that work and Sony Ericcson's documentation on it is abysmal from what I was able to make sense of.) 
 
 - 📫 How to reach me:
+  - Discord (@himik0.t0ga26)
   - Fluxer (@veeanti#4047)
   - Reddit (u/projectmajora)
   - Bluesky (@vee-anti.xyz)
@@ -35,7 +36,7 @@ I work with Union-Crax as part of their team, [visit the site](https://union-cra
   - I'm trans-female, by the way. (I don't care if you don't care about that, I'd rather not have any confusions about what I am.)
 
 - ⚡ Fun(?) fact about me, and whatever else comes to mind:
-  - I'm 22. (very very old, I know.)
+  - I'm 23. (very very old, I know.)
   - I love music, I listen to anything - if it sounds good / scratches my brain the right way, I like it and will listen to it.
      - My favorite artists are Buckethead (in all forms - himself, w/ Praxis, C.C.B.o.B.B, and Guns N' Roses [the Chinese Democracy] album), ZUN / Team Shanghai Alice, MonochroMenace, INABAKUMORI, Rihanna, Femtanyl, Korn, Limp Bizkit, Wu-Tang Clan, Steely Dan, and many others. I also really love listening to game OSTs too, I'll refrain from going on for any longer with this and not list them, ahah... (It'd go on for way longer, I think..?)
   - I like anime, but I haven't been able to watch much of any in a long while. The last thing I REALLY got into and still am really into is JoJo's Bizarre Adventure. I also enjoyed Dragon Ball Z Kai, Bleach, Death Note, Outlaw Star, Cowboy Bebop, PoyoPoyo, .hack//SIGN and .hack//LIMINALITY as well.
