@@ -2,7 +2,7 @@
 
 ~ Rest well, dad... (Feb. 6, 2026) ~
 
-[![The Funky](https://vee-anti.xyz/images/The%20Funky.gif)](https://vee-anti.xyz/images/The%20Funky.gif)
+[![The Funky](https://vee-anti.xyz/images/The%20Funky.gif)](https://vee-anti.xyz/images/TheFunky2.gif)
 
 ## yo waddup
 
